@@ -101,8 +101,10 @@ header ul li a:hover {
 }
 .logo:hover {
   color: #ff9400;
+  background-color: white;
+  padding: 10px;
   transition: 0.5s;
-  border-radius: 10px;
+  border-radius: 30px;
 }
 
 .content {
